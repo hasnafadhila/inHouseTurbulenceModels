@@ -25,9 +25,10 @@ Class
     Foam::RASModels::NLkOmega
 
 Description
-    This is the final version of the non-linear (NL) k-omega turbulence model.
-		The model uses a quadratic expression for the Reynolds stress tensor with
-		an added function for turbulence anisotropy.
+    This is an in-house implementation of the non-linear (NL) k-omega
+    turbulence model. The model uses a classic k-omega transport equation with
+    a quadratic expression for the Reynolds stress tensor and	an added function
+    for turbulence anisotropy.
 
     References:
     \verbatim

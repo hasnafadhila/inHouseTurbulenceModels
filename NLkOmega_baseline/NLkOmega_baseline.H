@@ -28,9 +28,10 @@ Group
     grpRASTurbulence
 
 Description
-    This is the baseline version of the non-linear (NL) k-omega turbulence model.
-		The model uses a quadratic expression for the Reynolds stress tensor with
-		constant values for the extra anisotropy coefficients.
+    This is an in-house implementation of the non-linear (NL) k-omega
+    turbulence model. The model uses a classic k-omega transport equation with
+    a quadratic expression for the Reynolds stress tensor and	constant values
+    for the anisotropy expansion coefficients (Cbeta1 and Cbeta2).
 
     References:
     \verbatim
