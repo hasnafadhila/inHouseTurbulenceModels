@@ -1,5 +1,5 @@
-Implementation of new and not-previously-implemented turbulence models on OpenFOAM.
+Implementation of new turbulence models on OpenFOAM
 
 Class Foam::RASModels
 
-Work with OpenFOAM-6.
+Work with OpenFOAM-6
