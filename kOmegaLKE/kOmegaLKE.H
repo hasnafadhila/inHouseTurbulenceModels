@@ -35,10 +35,10 @@ Description
 
     References:
     \verbatim
-        H Medina, A Beechook, H Fadhila, S Aleksandrova, and S Benjamin.
-        A novel laminar kinetic energy model for the prediction of
+        Medina, H., Beechook, A., Fadhila, H., Aleksandrova, S., & Benjamin,
+        S. (2018). A novel laminar kinetic energy model for the prediction of
         pretransitional velocity fluctuations and boundary layer transition.
-        International Journal of Heat and Fluid Flow, 69:150--163, 2018.
+        International Journal of Heat and Fluid Flow, 69, 150-163.
     \endverbatim
 
     The default model coefficients are

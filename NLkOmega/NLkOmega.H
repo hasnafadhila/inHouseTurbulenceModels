@@ -32,9 +32,9 @@ Description
 
     References:
     \verbatim
-     Fadhila, H., et al. "A new non-linear RANS model with enhanced near-wall
-		 treatment of turbulence anisotropy." Applied Mathematical Modelling 82
-		 (2020): 293-313.
+        Fadhila, H., Medina, H., Aleksandrova, S., & Benjamin, S. (2020).
+        A new non-linear RANS model with enhanced near-wall treatment of
+        turbulence anisotropy. Applied Mathematical Modelling, 82, 293-313.
     \endverbatim
 
     The default model coefficients are
